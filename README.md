@@ -1,3 +1,28 @@
+## autoware_cmake (jazzy) - 1.0.1-1
+
+The packages in the `autoware_cmake` repository were released into the `jazzy` distro by running `/home/z572/gits/rockos-ros/venv/bin/bloom-release -r jazzy autoware_cmake --override-release-repository-push-url git@github.com:rockos-riscv-ros/autoware_cmake-release.git --edit` on `Fri, 21 Mar 2025 07:42:01 -0000`
+
+These packages were released:
+- `autoware_cmake`
+- `autoware_lint_common`
+
+Version of package(s) in repository `autoware_cmake`:
+
+- upstream repository: https://github.com/autowarefoundation/autoware_cmake.git
+- release repository: https://github.com/rockos-riscv-ros/autoware_cmake-release.git
+- rosdistro version: `1.0.1-1`
+- old version: `1.0.0-1`
+- new version: `1.0.1-1`
+
+Versions of tools used:
+
+- bloom version: `0.12.0`
+- catkin_pkg version: `1.0.0`
+- rosdep version: `0.25.1`
+- rosdistro version: `1.0.1`
+- vcstools version: `0.1.42`
+
+
 ## autoware_cmake (rolling) - 1.0.0-1
 
 The packages in the `autoware_cmake` repository were released into the `rolling` distro by running `/usr/bin/bloom-release --new-track --rosdistro rolling --track rolling autoware_cmake` on `Tue, 07 May 2024 05:54:20 -0000`
